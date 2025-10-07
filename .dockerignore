@@ -1,0 +1,14 @@
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore compiled python files
+__pycache__/
+*.pyc
+
+# IMPORTANT: Ignore the local database file.
+# We will mount this from the host later so data persists.
+fencing_alerts.db
+
+# Ignore git data
+.git/
