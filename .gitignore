@@ -1,0 +1,5 @@
+.env
+.idea
+__pycache__
+test.ipynb
+html_source_code_example.txt
